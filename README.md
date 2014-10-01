@@ -1,2 +1,0 @@
-aosp-platform_art
-=================
